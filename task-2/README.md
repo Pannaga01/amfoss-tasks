@@ -2,4 +2,9 @@
 This task consists of hackerrank and codeforces problems whcih are solved using our basic knowledge on programming. We had programmed with the language of our choice. I used python which was taught in workhop and my prior knowledge of flowgorithms to get the logics for cracking the problems.
 
 ## Process: 
-Step1:
+Step1: Understood the problem. 
+Step2: Tried to workout the logic through flowgorithm(if required).
+       1.1 Stair case problem: we were taught the logic of it in flowgorithms.
+       1.2 
+Step3: Watched YouTube videos for understanding the approach to the solution.
+       
