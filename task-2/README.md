@@ -6,11 +6,11 @@ Step1: Understood the problem.
 
 Step2: Tried to workout the logic through flowgorithm or workshop takeawyas. 
       
-       1.1 Stair case problem: We worked out the problem in flowgorithms. We were taught the concept of 'nested loops' in workshop.
+       2.1 Stair case problem: We worked out the problem in flowgorithms. We were taught the concept of 'nested loops' in workshop.
        
-       1.2 Birthday cake candles: We were taught how to enter a 'list' in workshop. I learnt the use of 'counter' in flowgorithms.
+       2.2 Birthday cake candles: We were taught how to enter a 'list' in workshop. I learnt the use of 'counter' in flowgorithms.
       
-       1.3 Triplets: I learnt the concept of 'loops' through flowgorithms. I used 'if' condition in this problem. 
+       2.3 Triplets: I learnt the concept of 'loops' through flowgorithms. I used 'if' condition in this problem. 
 
 Step3: Watched YouTube videos for understanding the approach to the solution(if required)
  
