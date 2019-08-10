@@ -18,7 +18,11 @@ Step3: Watched YouTube videos for understanding the approach to the solution(if 
        
        3.2 Birthday cake candle: I worked out the problem myself. I referred to a video to check if my approach was right (list and count)            https://www.youtube.com/watch?v=4bqurNP1AnQ
        
-       3.3 Triplets: In this problem, I just knew the usage of 'if' codition. I had to watch a video for the approach. i tried to                      understand the program written. I had to do research about 'Return'. https://www.youtube.com/watch?v=Tafbg1T0AYQ&t=224s
+       3.3 Triplets: In this problem, I just knew the usage of 'if' codition. I had to watch a video for the approach. I tried to                      understand the program written. I had to do research about 'Return'. https://www.youtube.com/watch?v=Tafbg1T0AYQ&t=224s
        
-Step4: Writing the program in codechef. (The codes written are in the folder of task2)
+Step4: Writing the program in codechef. (The codes written are in the folder of task2). My takeaway from this task is:
+
+       4.1 The usage of 'Return'. Its purpose and places where it is used. 
+       
+       4.2 Understood about 'Indentation errors' and 'syntax errors' which helped me in writing the program with right syntax.
        
