@@ -16,9 +16,9 @@ Step3: Watched YouTube videos for understanding the approach to the solution(if 
  
        3.1 Stair case problem: As we were taught pattern printing in class, I didn't have to watch any videos for it.
        
-       3.2 Birthday cake candle: I worked out the problem myself. I referred to a video to check if my approach was right (list and count)            https://www.youtube.com/watch?v=4bqurNP1AnQ
+       3.2 Birthday cake candle: I worked out the problem myself. I referred to a video to check if my approach was right (list and count) https://www.youtube.com/watch?v=4bqurNP1AnQ
        
-       3.3 Triplets: In this problem, I just knew the usage of 'if' codition. I had to watch a video for the approach. I tried to                      understand the program written. I had to do research about 'Return'. https://www.youtube.com/watch?v=Tafbg1T0AYQ&t=224s
+       3.3 Triplets: In this problem, I just knew the usage of 'if' codition. I had to watch a video for the approach. I tried to           understand the program written. I had to do research about 'Return'. https://www.youtube.com/watch?v=Tafbg1T0AYQ&t=224s
        
 Step4: Writing the program in codechef. (The codes written are in the folder of task2). My takeaway from this task is:
 
