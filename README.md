@@ -3,7 +3,9 @@ This repository contains the details about the amfoss-tasks. It explains my appr
 
 ## list of amfoss-tasks
 Task1: 
+
 Task2: https://github.com/Pannaga01/amfoss-tasks/tree/master/task-2/hackerrank
+
 Task10: https://github.com/Pannaga01/amfoss-tasks/blob/master/README.md
 
 
