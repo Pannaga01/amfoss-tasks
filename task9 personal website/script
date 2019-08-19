@@ -1,0 +1,98 @@
+Mywebsite.html
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PEN DOWN...</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="logo.jpg">
+			</div>
+			<ul>
+				<li class="active"><a href="#">Home</a></li>
+				<li><a href="#">Templates</a></li>
+				<li><a href="#">My Blog</a></li>
+				
+			</ul>
+		</div>
+		<div class="title">
+			<h1>PEN DOWN....</h1>
+		</div>
+		<div class="button">
+			<a href="#" class="btn">LEARN IT!</a>
+			<a href="#" class="btn">START IT!</a>
+		</div>
+	</header>
+</body>
+</head>
+
+Stle.css
+
+*{
+	margin: 0;
+	padding: 0;
+        font-family: BankGothic;
+}
+header{
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../web.jpg);
+        height:100vh;
+	background-size:cover;
+	background-position:center
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #000;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+ul li.active a{
+	color: #000;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+.main{
+	max-width: 1200px;
+	margin:auto;
+}
+.title{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	font-size:50px;
+}
+.button{
+	position: absolute;
+	top:60%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+	border: 1px solid #000;
+	padding:10px 30px;
+	color:#000;
+	text-decoration:none;
+}
+
+
