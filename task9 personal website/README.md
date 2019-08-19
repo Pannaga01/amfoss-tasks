@@ -1,6 +1,6 @@
-## Personal Website:
+# Personal Website:
 This task expected us to vreate a personal website for blog. I did this task using html.
-# Procedure:
+## Procedure:
 Step1: Followed the instructions provided in the github repository-personal website(Forked the repositor):
 
 Step2: Watched YouTube videos on creating a ebsite using HTML. Learnt about CSS(Cascading Style Sheets). https://www.youtube.com/watch?v=uyaV_EWWRmo, https://www.w3schools.com/css/css_intro.asp
